@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-10-15T15:31:26+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: resolve\n"
+
+#: resolve-for-woocommerce/includes/core/class-rfw-payment-gateway.php:18
+#: resolve-for-woocommerce/includes/core/class-rfw-payment-gateway.php:83
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:16
+msgid "Resolve"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/core/class-rfw-payment-gateway.php:97
+msgid "Hassle-free terms with no hidden fees. Sign up and get approved today. "
+msgstr ""
+
+#: resolve-for-woocommerce/includes/core/class-rfw-payment-gateway.php:105
+#: resolve-for-woocommerce/resolve-for-woocommerce.php:176
+msgid "Resolve Payment Gateway is currently in test mode, disable it for live web shop."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/core/class-rfw-payment-gateway.php:160
+msgid "Pay"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/core/class-rfw-payment-gateway.php:245
+msgid "Order successfully authorized by the Resolve payment system"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/core/class-rfw-payment-gateway.php:249
+msgid ", charge ID: %s"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/core/class-rfw-payment-gateway.php:255
+msgid ", loan ID: %s"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/core/class-rfw-payment-gateway.php:295
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:74
+msgid "Capture"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/core/class-rfw-payment-gateway.php:378
+msgid "Failed to capture the payment! Error message: %s"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/core/class-rfw-payment-gateway.php:386
+msgid "Failed to capture the payment! Resolve returned an error message: %s"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/core/class-rfw-payment-gateway.php:390
+msgid "The payment was successfully captured! Resolve ID: %s."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:6
+msgid "Enable"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:8
+msgid "Enable Resolve Payment Gateway"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:13
+msgid "Title"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:15
+msgid "This controls the title which the user sees during the checkout."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:20
+msgid "Description"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:22
+msgid "Payment method description that the customer will see on the checkout page."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:27
+msgid "Confirmation"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:29
+msgid "Confirmation message that will be added to the \"thank you\" page."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:30
+msgid "Your account has been charged and your transaction is successful."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:34
+msgid "Receipt"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:36
+msgid "Message that will be added to the \"receipt\" page. Shown if automatic redirect is enabled."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:41
+msgid "Merchant settings"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:46
+msgid "Merchant ID"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:50
+msgid "API Key"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:54
+msgid "TEST Merchant ID"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:58
+msgid "TEST API Key"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:62
+msgid "Webshop settings"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:67
+msgid "Payment mode"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:70
+msgid "Capture mode will automatically capture all authorized Resolve orders. All automatically captured orders will be updated with an order status of; \"Processing\"."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:73
+msgid "Authorize"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:78
+msgid "Backorder disable"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:80
+msgid "Disable for backordered items"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:81
+msgid "Resolve will not display as a payment method for orders that contain backordered items."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:85
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:87
+msgid "Set minimum order price"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:88
+msgid "Resolve will not display as a payment method for orders below the defined minimum price."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:91
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:93
+msgid "Set maximum order price"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:94
+msgid "Resolve will not display as a payment method for orders that exceed the defined maximum price."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:97
+msgid "Automatic redirect"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:99
+msgid "Enable automatic redirect to the Resolve checkout form."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:100
+msgid "This option is using JavaScript (Ajax)."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:110
+msgid "Resolve Sandbox mode"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:112
+msgid "Enable Sandbox test mode."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:113
+msgid "Mode used for testing purposes, disable this for live web shop."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:118
+msgid "Debug log"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:120
+msgid "Enable logging"
+msgstr ""
+
+#: resolve-for-woocommerce/includes/settings/rfw-settings-fields.php:121
+msgid "Log gateway events, stored in %s. Note: this may log personal information. We recommend using this for debugging purposes only and deleting the logs when finished."
+msgstr ""
+
+#: resolve-for-woocommerce/includes/utilities/class-rfw-data.php:244
+msgid "Learn more"
+msgstr ""
+
+#: resolve-for-woocommerce/resolve-for-woocommerce.php:43
+msgid "Please install and activate <a href=\"http://www.woothemes.com/woocommerce/\" target=\"_blank\">WooCommerce</a> before activating Resolve payment gateway!"
+msgstr ""
+
+#: resolve-for-woocommerce/resolve-for-woocommerce.php:144
+msgid "Are you sure you want to capture this payment?"
+msgstr ""
+
+#: resolve-for-woocommerce/resolve-for-woocommerce.php:157
+msgid "Settings"
+msgstr ""
+
+#: resolve-for-woocommerce/resolve-for-woocommerce.php:181
+msgid "Resolve is currenly disabled, please check that you have Merchant ID and API key set in the plugin settings."
+msgstr ""
+
+#: resolve-for-woocommerce/resolve-for-woocommerce.php:201
+msgid "You can only have one Resolve payment gateway active at the same time. Plugin \"Resolve for WooCommerce\" has been deactivated."
+msgstr ""
